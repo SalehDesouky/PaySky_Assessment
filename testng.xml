@@ -1,0 +1,12 @@
+<suite name="AutomationSuite">
+    <test name="WebTests">
+        <classes>
+            <class name="org.tests.WebTests.TestCases.CheckoutTest"/>
+        </classes>
+    </test>
+    <test name="APITests">
+        <classes>
+            <class name="org.tests.APIsTests.ReqResUserCreationTest"/>
+        </classes>
+    </test>
+</suite>
